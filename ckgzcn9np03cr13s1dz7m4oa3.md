@@ -1,4 +1,4 @@
-## Understanding NGINX location Block
+## Understanding NGINX Location Block Modifiers
 
 🛠 [NGINX](http://nginx.org/)  has become the preferred default web server in recent years. Although it has many benefits over other popular web servers, a poorly configured web server may bring more harm than the benefits that it supposed to provide.
 
