@@ -55,7 +55,7 @@ Assuming the following request expects a response containing JSON data:
 ```javascript
 fetch('https://example.com/users/1')
     .then(response => response.json())
-    .then(user => console.log(data.name))
+    .then(user => console.log(user.name))
 ```
 
 The response also contains other useful properties that you can read to check the response statuses. Some of the more common ones include:
